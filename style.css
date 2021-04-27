@@ -2,7 +2,7 @@ body{background-image: url(https://conteudo.imguol.com.br/c/entretenimento/0e/20
 h1{
   
   background-color: white;
-  background-size: 0px 0px;
+  display: inline;
 
 }
 h2{background-color: white;}
