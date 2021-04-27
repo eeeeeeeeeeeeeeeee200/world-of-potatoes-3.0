@@ -5,7 +5,12 @@ h1{
   display: inline;
 
 }
-h2{background-color: white;}
+h2{
+  
+  background-color: white;
+  display: inline;
+
+}
 body{background-repeat: no-repeat;}
 body{background-size: 10000px;}
 a{font-size: larger;}
