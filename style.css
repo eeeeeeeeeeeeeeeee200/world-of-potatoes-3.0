@@ -6,7 +6,7 @@ h1{
 
 }
 h2{
-  
+  display:inline;
   background-color: white;
 
 }
@@ -15,6 +15,5 @@ body{background-size: 10000px;}
 a{
   
   font-size: larger;
-  display:inline;
   
 }
